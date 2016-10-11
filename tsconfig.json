@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "moduleResolution": "node",
+    "target": "es5",
+    "sourceMap": false,
+    "outDir": "dest",
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": [
+      "es5",
+      "es6",
+      "es7",
+      "dom"
+    ]
+  }
+}
