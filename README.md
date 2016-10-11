@@ -4,8 +4,8 @@ Example Repo to replicate Typescript loader bug https://github.com/TypeStrong/ts
 ## To Run
 
 1. Clone repo
-2. ```npm install ```
-3. ```webpack```
+2. ```npm install```
+3. ``` webpack ```
 
 * At this point the error occurs *
 
